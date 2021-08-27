@@ -1,22 +1,20 @@
-# Challenge name
-
-![screenshot of question](link to png)
-
-[filenames](link to files)
-
-
-
-## major steps to solve
-
-### minor steps to solve
-
-1) steps and `commands` [links to resources and references](link here)
- - footnotes
-  - smaller footnotes
-
-2)
-```
-multi
-line
-code
-```
+### YauzaCTF Writeups       
+![pic](Screenshot_1.png)
+| Challenge | Category |
+| ----------- | ----------- |
+| [Lorem-Ipsum](https://github.com/HQ4EV3R/YauzaCTF/tree/main/STEGO_MISC/LOREM-IPSUM) | Stego/misc |
+| [challenge](github link) | category |
+| [challenge](github link) | category |
+| [challenge](github link) | category |
+| [challenge](github link) | category |
+| [challenge](github link) | category |
+| [challenge](github link) | category |
+| [challenge](github link) | category |
+| [challenge](github link) | category |
+| [challenge](github link) | category |
+| [challenge](github link) | category |
+| [challenge](github link) | category |
+| [challenge](github link) | category |
+| [challenge](github link) | category |
+| [challenge](github link) | category |
+| [challenge](github link) | category |
