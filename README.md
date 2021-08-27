@@ -2,7 +2,7 @@
 ![pic](Screenshot_1.png)
 | Challenge | Category |
 | ----------- | ----------- |
-| [challenge](github link) | category |
+| [Lorem-Ipsum](https://github.com/HQ4EV3R/YauzaCTF/tree/main/STEGO_MISC/LOREM-IPSUM) | Stego/misc- |
 | [challenge](github link) | category |
 | [challenge](github link) | category |
 | [challenge](github link) | category |
