@@ -1,0 +1,2 @@
+NaNd(a,b) (a=a(a);b=a(b);al=l(a);bl=l(b);e=0;#{e<(al-1),a[e] = a[e] ^ b[e%(bl-1)];e++;}; s(a));
+AACc(a) (q=i(1796147849);r=i(683977159);a=a(a);al=l(a);e=0;#{e<(al-1),r^=a[e];r*=q;e++;};s(i(r)&4294967295))
